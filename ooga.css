@@ -1,0 +1,121 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0rem;
+  overflow: hidden;
+  background: url(images/img2.jpg);
+  background-size: cover;
+  min-height: 100%;
+}
+
+.logo{
+  position: absolute;
+  top: -4%;
+  left: 2%;
+  z-index: 1000;
+}
+nav{
+  width: 50%;
+  position: absolute;
+  top: -1%;
+  right: 18%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-left: 1px;
+
+}
+nav ul li a{
+  display: block;
+  padding: 3px 10px;
+  text-decoration: none;
+  color: #fffffff7;
+  font-weight: 650;
+  margin: 0 1px;
+}
+nav ul li a:hover {
+  color: #ffffff;
+}
+nav.circle ul li a {
+  position: relative;
+  overflow: hidden;
+  z-index: 10;
+}
+nav.circle ul li a:after {
+  display: block;
+  position: absolute;
+  margin: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: '.';
+  color: transparent;
+  width: 1px;
+  height: 1px;
+  border-radius: 50%;
+  background: transparent;
+}
+nav.circle ul li a:hover:after {
+  -webkit-animation: circle .5s ease-in forwards;
+}
+@-webkit-keyframes circle {
+  0% {
+    width: 1px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    height: 1px;
+    z-index: -1;
+    background: rgba(1, 1, 0, 0.292);
+    border-radius: 100%;
+  }
+  100% {
+    background: rgba(13, 13, 13, 0.915);
+    height: 5000%;
+    width: 5000%;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 0;
+  }
+}
+
+#map {
+  height: 200px;
+  width: 70%;
+  top: 13%;
+  left: 17.5%;
+}
+
+#image-track {
+  display: flex;
+  gap: 4vmin;
+  position: absolute;
+  left: 50%;
+  top: 75%;
+  transform: translate(0%, -50%); 
+  user-select: none; /* -- Prevent image highlighting -- */
+}
+
+#image-track > .image {
+  width: 40vmin;
+  height: 50vmin;
+  object-fit: cover;
+  object-position: 100% center;
+}
+
+.image-track:hover .image-text {
+  visibility: visible;
+}

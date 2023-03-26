@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoommate</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <div class="pimg1"></div>
+    
+    <div class="front-buttons">
+        <div>
+            <a id="Roommate" href="RoommateStreamlit.html">Find a Roommate</a>
+        </div>
+        <div>
+            <a id="Room" href="RoomSlides.html">Available Rooms</a>
+        </div>
+
+    </div>
+
+    <div class="register-buttons">
+        <div>
+            <a id="Sign In" onclick="openLoginForm()">Log In</a>
+        </div>
+        <div>
+            <a id="Register" onclick="openRegisterForm()">Register</a>
+        </div>
+    </div>
+    
+    <a class="logo" href="index.html">
+        <img src="images/owl.png" class="logo"
+        width="160"
+        height="150">
+    </a>
+    <nav class="circle">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Community.php">Community</a></li>
+            <li><a href="Calculator.html">Rent Calculator</a></li>
+        </ul>
+    </nav>
+
+    <div class="content">
+        <h1>Hoommate</h1>
+        <h2>From Strangers, to Friends, to Memories. &reg</h2>
+    </div>
+
+    <div class="form-popup" id="registerform">
+        <form action="register.php" class="form-container" method="post">
+            <h1 style="text-align: center;">Register</h1>
+            
+            <!--<label for="fname"><b>First Name</b></label>-->
+            <input type="text" placeholder="First Name" name="fname" maxlength="40" required>
+            <!--<label for="lname"><b>Last Name</b></label>-->
+            <input type="text" placeholder="Last Name" name="lname" maxlength="40" required>
+    
+            <!--<label for="email"><b>Email</b></label>-->
+            <input type="email" placeholder="Email" name="email" maxlength="100" required>
+            
+            <!--<label for="password"><b>Password</b></label>-->
+            <input type="password" placeholder="Password" name="pw" minlength="5" maxlength="40" required>
+    
+            <!--<label for="phone">Phone</label>-->
+            <input type="tel" name="phone" placeholder="Phone Number (ex:111-111-1111)" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+            <!--<small>Format: 111-111-1111</small>-->
+    
+            <button type="submit" class="btn">Continue</button>
+            <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+            
+        </form>
+    </div>
+    
+    <div class="form-popup" id="loginform">
+        <form action="login.php" class="form-container" method="post">
+            <h1 style="text-align: center;" onclick="toggle()">Log In</h1>
+            
+            <!--<label for="email"><b>Email</b></label>-->
+            <input type="email" placeholder="Email" name="email" maxlength="40" required>
+            
+            <!--<label for="password"><b>Password</b></label>-->
+            <input type="password" placeholder="Password" name="pw" minlength="5" maxlength="40" required>
+    
+            <button type="submit" class="btn">Continue</button>
+            <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+    
+        </form>
+    </div>
+    
+    <script type="text/javascript">
+        function openRegisterForm() {
+            document.getElementById("registerform").style.display = "block";
+            document.getElementById("loginform").style.display = "none";
+        }
+        function openLoginForm() {
+            document.getElementById("registerform").style.display = "none";
+            document.getElementById("loginform").style.display = "block";
+        }
+        
+        function closeForm() {
+            document.getElementById("registerform").style.display = "none";
+            document.getElementById("loginform").style.display = "none";
+        }
+
+    </script>
+    
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+* {box-sizing: border-box;}
+
+/*the signup area/box as a whole*/ 
+.form-popup {
+  display: none;
+  border-radius: 10px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  border: 3px solid #ff4d01;
+  z-index: 10;
+  transform: translate(-50%, -50%);
+}
+.form-popup#registerform.active{
+  filter: blur(20px);
+}
+
+/*everything inside of the form*/
+.form-container {
+  border-radius: 10px;
+  max-width: 20em;
+  max-height: 40em;
+  padding: 10px;
+  background-color: #ececec;
+  color: rgb(251, 92, 0);
+  
+}
+
+/*the input area*/
+.form-container input{
+  float: center;
+  width: 100%;
+  padding: 10px;
+  border: 1px black solid;
+  background: white;
+  margin: 5px auto 5px auto;
+}
+
+/*submit/login button*/
+.form-container .btn {
+  margin: 8px auto 6px auto;
+  background-color: #ff9e02c4;
+  color: white;
+  padding: 10px;
+  border: 2px solid black;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  border-radius: 10em;
+  opacity: .8;
+}
+
+/* close button is red inactive*/
+.form-container .cancel {
+  background-color: rgba(255, 0, 0, 0.702);
+}
+
+/* button hover */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}

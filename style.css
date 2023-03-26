@@ -1,0 +1,309 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('Proxima_Nova_Font.otf') format('truetype');
+  }
+
+
+body, html{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Proxima Nova", sans-serif;
+    line-height: 1.8em;
+    color: rgb(249, 247, 247);
+    min-width: 1080px;
+}
+
+.pimg1, .pimg2 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    /*fixed = parallax 
+    scroll = normal*/
+    background-attachment: fixed; 
+}
+
+.pimg1{
+    background:url(images/img1.jpg);
+    background-size: cover;
+    min-height: 100%;
+}
+
+.pimg2{
+    background-image: url(images/OrangeBG.png);
+    min-height: 60%;
+    filter: brightness(120%);
+}
+
+.pimg3{
+    background-image: url(images/OrangeBG.png);
+    min-height: 70%;
+    filter: brightness(120%);
+}
+
+.section{
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.ptext{
+    position: absolute;
+    top: 5%;
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.logo{
+    position: absolute;
+    top: -4%;
+    left: 2%;
+}
+nav{
+    width: 50%;
+    position: absolute;
+    top: -1%;
+    right: 18%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 1px;
+
+}
+nav ul li a{
+    display: block;
+    padding: 3px 10px;
+    text-decoration: none;
+    color: #000000f7;
+    font-weight: 650;
+    margin: 0 1px;
+}
+nav ul li a:hover {
+    color: #ffffff;
+}
+nav.circle ul li a {
+    position: relative;
+    overflow: hidden;
+    z-index: 10;
+}
+nav.circle ul li a:after {
+    display: block;
+    position: absolute;
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    content: '.';
+    color: transparent;
+    width: 1px;
+    height: 1px;
+    border-radius: 50%;
+    background: transparent;
+}
+nav.circle ul li a:hover:after {
+    -webkit-animation: circle .5s ease-in forwards;
+}
+@-webkit-keyframes circle {
+    0% {
+      width: 1px;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      margin: auto;
+      height: 1px;
+      z-index: -1;
+      background: rgba(1, 1, 0, 0.292);
+      border-radius: 100%;
+    }
+    100% {
+      background: rgba(235, 74, 0, 0.915);
+      height: 5000%;
+      width: 5000%;
+      z-index: -1;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+      border-radius: 0;
+    }
+  }
+  
+.content{
+    text-align: center;
+}
+.content h1{
+    position: absolute;
+    top: 12%;
+    width: 100%;
+    font-size: 130px;
+    color: #fd7a00f7;
+    font-weight: 900;
+}
+
+.content h2{
+    position: absolute;
+    top: 38%;
+    width: 100%;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+.front-buttons{
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: space-between;
+    width: 22%;
+    font-weight: 500;
+}
+
+.front-buttons a{
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    border: 2px solid rgba(192, 80, 0, 0.733);
+    padding: 15px 20px;
+    border-radius: 50px;
+    margin-top: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #eb5757 0%, #ed6d03 51%, #eaab0b 100%);
+}
+  
+.front-buttons a:hover{
+    -webkit-text-stroke: 1.5px rgb(254, 254, 254);
+    color: rgb(255, 255, 255);
+    transform: scale(1.10);
+}
+
+.register-buttons{
+    position: absolute;
+    top: 6%;
+    right: 0%;
+    transform: translate(-20%, -50%);
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+    font-weight: bold;
+    cursor: pointer;
+}
+.register-buttons a{
+    color: rgb(246, 246, 246);
+    font-size: 22px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 5px 10px;
+    border-radius: 50px;
+    margin-top: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.324) 0%, rgba(0, 0, 0, 0.373) 100%);
+}
+.register-buttons a:hover{
+    -webkit-text-stroke: 1.5px rgb(249, 243, 238);
+    color: rgb(246, 90, 0);
+    transform: scale(1.10);
+}
+
+.popup{
+    position: absolute;
+    top: -150%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(1.25);
+    width: 380px;
+    padding: 20px 30px;
+    background: orange;
+    box-shadow: 2x 2x 5px 5px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    transition: top 0ms ease-in-out 200ms,
+                opacity 200ms ease-in-out 0ms,
+                transform 200ms ease-in-out 0ms;
+}
+.popup .active{
+    top: 50%;
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1.25);
+    transition: top 0ms ease-in-out 0ms,
+                opacity 200ms ease-in-out 0ms,
+                transform 200ms ease-in-out 0ms;
+}
+.popup .close-button{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    background: black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+.popup .form h2{
+    text-align: center;
+    color: black;
+    margin: 10px 0px 20px;
+    font-size: 10px;
+    
+}
+.popup .form .form-element{
+    margin: 15px 0px;
+}
+.popup .form .form-element label{
+    font-size: 14px;
+    color: black;
+}
+.popup .form .form-element input[type="text"],
+.popup .form .form-element input[type="password"]{
+    margin-top: 5px;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.popup .form .form-element button{
+    width: 100%;
+    height: 40px;
+    border: none;
+    outline: none;
+    font-size: 11px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+
+@media only screen and (max-width: 1400px){
+    .front-buttons{
+        width: 30%
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    .front-buttons{
+        width: 40%
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .front-buttons{
+        width: 100%
+    }
+}
+

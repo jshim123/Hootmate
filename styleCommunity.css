@@ -1,0 +1,161 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(images/img2.jpg);
+    background-size: cover;
+    min-height: 100%;
+}
+.logo{
+    position: absolute;
+    top: -4%;
+    left: 2%;
+    z-index: 1000;
+}
+nav{
+    width: 50%;
+    position: absolute;
+    top: -1%;
+    right: 18%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 1px;
+
+}
+nav ul li a{
+    display: block;
+    padding: 3px 10px;
+    text-decoration: none;
+    color: #fffffff7;
+    font-weight: 650;
+    margin: 0 1px;
+}
+nav ul li a:hover {
+    color: #ffffff;
+}
+nav.circle ul li a {
+    position: relative;
+    overflow: hidden;
+    z-index: 10;
+}
+nav.circle ul li a:after {
+    display: block;
+    position: absolute;
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    content: '.';
+    color: transparent;
+    width: 1px;
+    height: 1px;
+    border-radius: 50%;
+    background: transparent;
+}
+nav.circle ul li a:hover:after {
+    -webkit-animation: circle .5s ease-in forwards;
+}
+@-webkit-keyframes circle {
+    0% {
+      width: 1px;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      margin: auto;
+      height: 1px;
+      z-index: -1;
+      background: rgba(1, 1, 0, 0.292);
+      border-radius: 100%;
+    }
+    100% {
+      background: rgba(13, 13, 13, 0.915);
+      height: 5000%;
+      width: 5000%;
+      z-index: -1;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+      border-radius: 0;
+    }
+  }
+
+
+.forum-container {
+    max-width: 900px;
+    margin: 120px auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    margin: 0 0 20px;
+}
+
+#question-form {
+    margin-bottom: 20px;
+}
+
+#question-form input, #question-form textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+}
+
+button {
+    background-color: #2196f3;
+    color: #fff;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    font-weight: bold;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background-color: #1e87e5;
+}
+
+button:active {
+    background-color: #1c75c8;
+    box-shadow: none;
+}
+
+.questions-list .question {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.questions-list .question h3 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #2196f3;
+}
+
+.questions-list .question p {
+    margin: 0;
+    font-size: 0.9rem;
+}

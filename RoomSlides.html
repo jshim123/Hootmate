@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" {IF CLASSES}class="classes"{/IF}>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Available Rooms</title>
+
+  <link rel="stylesheet" href="ooga.css">
+  
+</head>
+
+<body>
+  <a class="logo" href="index.html">
+    <img src="images/owl.png" class="logo"
+    width="160"
+    height="150">
+  </a>
+  
+
+  <div class="pimg2"></div>
+  <div id="map"></div>
+
+  <nav class="circle">
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="About.html">About</a></li>
+        <li><a href="Community.php">Community</a></li>
+        <li><a href="Calculator.html">Rent Calculator</a></li>
+    </ul>
+  </nav>
+  
+    <div id="image-track" data-mouse-down-at="0" data-prev-percentage="0">
+        <img class="image" src="https://i.pinimg.com/originals/60/92/4d/60924d115f711ff65f68332b5ce17129.jpg" draggable="false" />
+        <img class="image" src="https://i.pinimg.com/originals/73/4e/11/734e11d5a8b67f9decd5887ba30d2bfd.jpg" draggable="false" />
+        <img class="image" src="https://photos.spareroom.com/images/flatshare/listings/unmodified/20/71/207142532.jpg?width=800&height=800&fit=bounds&auto=webp&optimize=medium" draggable="false" />
+        <img class="image" src="https://www.spartancrossing.com/wp-content/uploads/sites/26/2022/11/Spartan-2-bedroom-1.jpg" draggable="false" />
+        <img class="image" src="https://s3.ap-southeast-1.amazonaws.com/assets.amberstudent.com/inventories/134941/de9f3e80.jpg" draggable="false" />
+        <img class="image" src="https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_liv_student_porto.jpg&w=1460&q=85" draggable="false" />
+        <img class="image" src="https://erasmusplay.com/uploads/1092000/1092828/0.webp" draggable="false" />
+
+      </div>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUUO_c9aust1dbfxU-LnaldsPvCnYHjzE&callback=initMap" async defer></script>
+      
+  <script src="RoomSlidesJS.js">
+
+  </script>
+
+</body>
+
+</html>

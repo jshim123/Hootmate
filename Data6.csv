@@ -1,0 +1,501 @@
+Name,Gender,Grade,Smoking,Drinking,Pets,Disability_Access,Budget,Amenities,Phone,Cleanliness,Sleeping_Habits ,Social_Habit
+Barrett Jones,Female,Junior,No,Yes,Yes,Yes,1762,Furnished,126101689,Very Tidy,Late,Balanced
+Raymond Maxwell,Male,Freshman,No,Yes,No,Yes,1003,Furnished,169826574,Very Untidy,Early,Balanced
+Lillith Cooper,Male,Junior,No,No,No,Yes,1550,Unfurnished,119760642,Very Tidy,Early,Balanced
+Xander Richard,Female,Sophmore,No,Yes,Yes,Yes,1720,UnFurnished,169877026,Very Tidy,Late,Very Social
+Imogene Torres,Female,Sophmore,No,Yes,Yes,Yes,1815,Furnished,111548667,Balanced,Late,Very Social
+Joy Pennington,Female,Sophmore,No,No,Yes,Yes,1517,Furnished,127631239,Balanced,Early,Balanced
+Serina Hess,Other,Junior,Yes,No,Yes,Yes,853,Furnished,139726550,Very Tidy,Very Late,Balanced
+Devin Mejia,Male,Sophmore,No,No,Yes,Yes,1065,UnFurnished,161760594,Very Tidy,Late,Balanced
+Vladimir Hines,Female,Senior,No,No,Yes,Yes,1483,Furnished,143181653,Very Untidy,Late,Balanced
+Grant Hurley,Female,Sophmore,No,No,No,Yes,1981,Furnished,174716128,Balanced,Late,Very Social
+Marvin Mccray,Female,Freshman,Yes,Yes,No,Yes,1239,UnFurnished,151590744,Very Untidy,Very Late,Very Social
+Scarlett Finch,Female,Sophmore,No,Yes,No,Yes,1384,Furnished,111805510,Very Untidy,Late,Interoverted
+Serina Leblanc,Female,Sophmore,No,Yes,No,No,1542,Furnished,122368011,Very Tidy,Late,Balanced
+Cade Morgan,Female,Junior,No,Yes,Yes,Yes,1121,UnFurnished,160793317,Balanced,Early,Balanced
+Lucian Galloway,Female,Junior,No,No,No,Yes,1952,UnFurnished,104024834,Balanced,Late,Interoverted
+Alfreda Carver,Male,Junior,No,Yes,Yes,No,1686,UnFurnished,122765285,Balanced,Late,Balanced
+Brennan York,Female,Junior,No,Yes,No,No,1133,UnFurnished,129395266,Very Tidy,Early,Interoverted
+Grady Hanson,Male,Sophmore,No,Yes,Yes,No,1280,Furnished,104697897,Balanced,Late,Interoverted
+Samuel Harmon,Female,Junior,Yes,Yes,No,No,1872,UnFurnished,122215365,Balanced,Late,Balanced
+Kenneth Roberson,Female,Freshman,No,No,No,No,1714,UnFurnished,139936399,Balanced,Very Late,Very Social
+Berk Castro,Other,Junior,Yes,Yes,No,Yes,1780,UnFurnished,122807059,Very Tidy,Very Late,Balanced
+Ulric Cabrera,Male,Junior,No,No,No,Yes,902,Furnished,106551775,Balanced,Late,Very Social
+Edward Harding,Female,Junior,Yes,No,Yes,No,871,UnFurnished,122722192,Very Untidy,Late,Very Social
+Indigo Lowe,Male,Senior,Yes,Yes,Yes,No,876,UnFurnished,120715512,Very Tidy,Early,Interoverted
+Joelle Austin,Male,Sophmore,Yes,No,Yes,No,1411,UnFurnished,195995234,Very Untidy,Late,Interoverted
+Nolan Higgins,Male,Junior,Yes,Yes,No,No,1634,Furnished,170480192,Balanced,Very Late,Balanced
+Fay Turner,Other,Senior,No,No,Yes,No,1403,UnFurnished,175129961,Very Tidy,Early,Balanced
+Lester Valdez,Female,Sophmore,Yes,No,No,Yes,1824,Furnished,158053443,Balanced,Late,Very Social
+Hayden Stanley,Female,Junior,Yes,No,Yes,No,1770,UnFurnished,112463198,Balanced,Late,Balanced
+Kevin Pope,Female,Senior,Yes,No,No,Yes,1245,Furnished,122882923,Very Untidy,Late,Interoverted
+Elaine Pearson,Female,Freshman,Yes,Yes,Yes,Yes,1113,UnFurnished,194109988,Very Tidy,Late,Interoverted
+Guy Jenkins,Other,Sophmore,No,No,Yes,No,1871,Furnished,142828530,Balanced,Very Late,Balanced
+Macaulay Buck,Other,Junior,No,Yes,No,Yes,1692,Furnished,111238553,Balanced,Early,Balanced
+Inga Meyer,Female,Junior,Yes,No,No,Yes,1967,UnFurnished,137840268,Very Tidy,Very Late,Balanced
+Wallace Rios,Female,Senior,No,No,No,No,1654,Furnished,104430555,Balanced,Late,Balanced
+Naomi Wyatt,Female,Sophmore,Yes,No,No,No,949,UnFurnished,115323471,Very Untidy,Late,Very Social
+Nigel Kirkland,Female,Sophmore,No,No,Yes,No,1072,UnFurnished,196109723,Balanced,Very Late,Very Social
+Chanda Carpenter,Female,Freshman,No,No,Yes,No,1832,Furnished,114791279,Balanced,Early,Balanced
+Solomon Glover,Other,Senior,Yes,No,Yes,Yes,1581,UnFurnished,184763554,Very Tidy,Late,Balanced
+Jermaine Hays,Other,Junior,Yes,Yes,No,Yes,1515,UnFurnished,194963398,Very Tidy,Late,Very Social
+Zeph Mcbride,Male,Freshman,No,Yes,Yes,No,1544,UnFurnished,135870456,Balanced,Late,Balanced
+Zahir Reyes,Male,Junior,Yes,No,No,No,1009,Furnished,167060731,Very Untidy,Late,Very Social
+Gannon Bruce,Male,Junior,No,Yes,Yes,No,1143,UnFurnished,111521742,Very Untidy,Late,Balanced
+Caleb Browning,Female,Sophmore,Yes,Yes,Yes,Yes,1644,UnFurnished,155691742,Very Tidy,Late,Balanced
+Astra Whitaker,Other,Junior,No,No,Yes,No,1540,Furnished,160672470,Very Tidy,Late,Balanced
+Cedric Donovan,Female,Junior,Yes,Yes,Yes,Yes,1349,UnFurnished,105682341,Balanced,Early,Balanced
+Hadassah Pierce,Male,Junior,No,Yes,No,Yes,1469,UnFurnished,145596533,Very Untidy,Late,Balanced
+Wang Murray,Female,Junior,Yes,Yes,No,Yes,1155,UnFurnished,113564330,Very Tidy,Very Late,Interoverted
+Kevin Hull,Other,Junior,Yes,Yes,Yes,Yes,999,UnFurnished,175998816,Very Untidy,Late,Very Social
+Aidan Benton,Female,Sophmore,No,Yes,No,No,1663,Furnished,101135728,Balanced,Very Late,Balanced
+Philip Gonzales,Female,Junior,Yes,Yes,Yes,No,1423,Furnished,187568291,Very Untidy,Early,Interoverted
+Odysseus Young,Other,Senior,No,No,No,Yes,994,UnFurnished,104922245,Balanced,Very Late,Balanced
+Magee Combs,Other,Senior,Yes,Yes,No,No,1488,Furnished,179328608,Very Untidy,Early,Balanced
+Uriel Howell,Female,Junior,No,Yes,Yes,Yes,1015,Furnished,134763506,Very Tidy,Very Late,Interoverted
+Naomi Conrad,Female,Junior,No,Yes,No,Yes,1678,Furnished,173150043,Very Untidy,Early,Balanced
+Evan Flynn,Female,Sophmore,Yes,No,No,Yes,1845,Furnished,176473132,Very Tidy,Early,Balanced
+Mari Owen,Female,Freshman,No,No,No,Yes,1784,Furnished,179787077,Balanced,Early,Balanced
+Lacy Butler,Female,Freshman,Yes,No,No,Yes,1668,Furnished,156418273,Very Untidy,Late,Very Social
+Glenna Hamilton,Female,Freshman,No,Yes,Yes,Yes,1488,UnFurnished,126231145,Very Untidy,Early,Very Social
+Damon Rhodes,Other,Junior,Yes,Yes,Yes,Yes,1517,UnFurnished,132872593,Very Tidy,Late,Very Social
+Camilla Hoover,Other,Sophmore,Yes,Yes,No,Yes,1118,UnFurnished,146210432,Balanced,Late,Very Social
+Davis Parrish,Female,Junior,Yes,Yes,Yes,Yes,999,UnFurnished,165248882,Balanced,Early,Very Social
+Kevyn Nieves,Male,Senior,No,No,No,Yes,1356,UnFurnished,171136903,Very Untidy,Very Late,Interoverted
+Jolene Small,Female,Sophmore,No,No,No,No,1827,Furnished,155404541,Very Untidy,Early,Interoverted
+Ifeoma Raymond,Female,Sophmore,Yes,Yes,No,No,1829,Furnished,140718882,Balanced,Late,Very Social
+Sylvia Rocha,Female,Sophmore,No,Yes,Yes,Yes,942,UnFurnished,144678866,Very Untidy,Very Late,Interoverted
+Velma Cummings,Female,Junior,No,No,Yes,Yes,1286,UnFurnished,188009187,Balanced,Very Late,Balanced
+Sandra Clemons,Female,Sophmore,Yes,No,Yes,No,1291,UnFurnished,170234954,Balanced,Very Late,Interoverted
+Florence Moss,Other,Sophmore,Yes,Yes,Yes,No,1544,UnFurnished,155206173,Balanced,Late,Very Social
+Evelyn Benson,Female,Sophmore,No,Yes,Yes,No,850,UnFurnished,108530256,Balanced,Late,Very Social
+Cedric Pacheco,Female,Sophmore,No,No,No,No,1914,UnFurnished,183688245,Balanced,Very Late,Very Social
+Fritz Horne,Other,Senior,No,Yes,No,No,1709,UnFurnished,174263520,Very Tidy,Early,Interoverted
+Kameko Gilliam,Female,Sophmore,Yes,No,Yes,Yes,1306,Furnished,152016769,Balanced,Late,Very Social
+Alyssa Barber,Other,Freshman,No,Yes,No,Yes,1378,UnFurnished,109333957,Balanced,Late,Very Social
+Francesca Simmons,Female,Freshman,No,No,No,No,1182,Furnished,111596442,Balanced,Late,Balanced
+Zahir Pruitt,Female,Sophmore,No,No,No,No,1020,Furnished,187171111,Balanced,Very Late,Balanced
+Martin Hall,Female,Junior,Yes,Yes,Yes,Yes,830,Furnished,107105391,Very Tidy,Very Late,Balanced
+Vance Freeman,Female,Junior,Yes,No,No,Yes,1012,Furnished,105252746,Very Untidy,Late,Balanced
+Uma Morales,Female,Junior,Yes,Yes,No,Yes,1801,UnFurnished,178793929,Very Untidy,Early,Interoverted
+Ezekiel Flores,Male,Sophmore,No,Yes,Yes,Yes,1528,Furnished,196293221,Balanced,Very Late,Balanced
+Tyler Chaney,Other,Sophmore,No,No,Yes,Yes,1124,Furnished,157128315,Balanced,Late,Very Social
+Ira Robbins,Other,Senior,No,No,No,No,1587,Furnished,187808654,Balanced,Late,Balanced
+Tarik Kirby,Other,Junior,Yes,Yes,No,No,1554,Furnished,153825370,Balanced,Very Late,Balanced
+Joel Warner,Female,Sophmore,No,No,No,No,1115,Furnished,128628324,Balanced,Late,Interoverted
+Craig Delacruz,Male,Sophmore,No,Yes,No,No,997,UnFurnished,127801874,Balanced,Very Late,Balanced
+Price Walker,Female,Junior,Yes,Yes,No,No,859,UnFurnished,161117195,Balanced,Late,Balanced
+Amaya Love,Male,Junior,Yes,No,No,Yes,1496,UnFurnished,106769555,Balanced,Late,Very Social
+Nadine Jones,Female,Sophmore,Yes,No,No,No,1294,UnFurnished,149017175,Balanced,Late,Balanced
+Victor Gray,Other,Sophmore,No,Yes,Yes,Yes,1154,Furnished,101699578,Balanced,Very Late,Very Social
+Joelle Ayala,Female,Junior,Yes,Yes,Yes,Yes,1717,UnFurnished,135595130,Very Tidy,Very Late,Very Social
+Risa Mosley,Other,Junior,No,Yes,Yes,Yes,948,Furnished,123083333,Very Untidy,Late,Very Social
+Christopher Payne,Female,Sophmore,Yes,No,No,No,1768,UnFurnished,178365657,Balanced,Late,Interoverted
+Ora Taylor,Male,Freshman,No,Yes,No,Yes,1196,UnFurnished,107796971,Balanced,Early,Balanced
+Georgia Sanders,Other,Sophmore,Yes,No,No,Yes,1941,Furnished,122155183,Balanced,Early,Balanced
+Wynter Flowers,Female,Senior,No,Yes,Yes,Yes,1101,Furnished,169722960,Very Tidy,Early,Interoverted
+Hedy Winters,Female,Junior,Yes,No,No,No,1143,Furnished,186560823,Very Untidy,Late,Interoverted
+Colleen Rowland,Male,Junior,No,No,Yes,Yes,1931,UnFurnished,178362842,Very Tidy,Late,Balanced
+Zelda Brady,Other,Freshman,No,Yes,No,No,1030,UnFurnished,108340908,Very Untidy,Late,Interoverted
+Ezra Garcia,Female,Junior,No,Yes,Yes,No,1161,UnFurnished,178185229,Very Tidy,Late,Balanced
+Elvis Burke,Other,Junior,No,Yes,Yes,Yes,1470,Furnished,105079550,Very Tidy,Early,Balanced
+Axel Rodriquez,Female,Freshman,No,No,No,Yes,1304,UnFurnished,109664241,Balanced,Early,Very Social
+Denise Hull,Female,Junior,Yes,No,No,No,1325,Furnished,153399220,Very Untidy,Late,Interoverted
+Fredericka Hayden,Other,Senior,No,Yes,No,Yes,900,Furnished,143895740,Very Untidy,Late,Balanced
+Aquila Reyes,Female,Junior,No,No,Yes,No,903,UnFurnished,172551064,Very Tidy,Very Late,Interoverted
+Leonard Mullen,Male,Junior,No,No,Yes,No,1331,UnFurnished,187059995,Very Tidy,Early,Interoverted
+Whoopi King,Other,Senior,Yes,No,No,No,1562,Furnished,101822471,Very Tidy,Early,Balanced
+Barrett Padilla,Female,Junior,No,No,Yes,No,1998,UnFurnished,113058554,Balanced,Early,Interoverted
+Cleo Austin,Other,Sophmore,No,Yes,No,No,1557,UnFurnished,188563526,Balanced,Early,Interoverted
+Vaughan Young,Other,Junior,Yes,Yes,Yes,Yes,946,UnFurnished,143148484,Balanced,Late,Very Social
+Renee Ward,Male,Junior,No,Yes,No,Yes,1352,Furnished,190335408,Balanced,Very Late,Balanced
+Giacomo Rasmussen,Male,Freshman,No,Yes,No,Yes,895,Furnished,193592262,Very Untidy,Very Late,Balanced
+Marah Peck,Other,Freshman,Yes,No,No,Yes,892,UnFurnished,144435885,Balanced,Very Late,Interoverted
+Hiram Salinas,Other,Senior,Yes,No,No,No,1547,UnFurnished,134876985,Balanced,Early,Interoverted
+Aquila Ramsey,Male,Junior,Yes,No,No,No,811,UnFurnished,193860267,Balanced,Very Late,Balanced
+Uriel Dale,Female,Sophmore,Yes,No,No,Yes,1734,UnFurnished,148153086,Very Untidy,Late,Very Social
+Dale Kent,Other,Junior,Yes,No,Yes,No,1618,UnFurnished,171492871,Balanced,Very Late,Very Social
+Idola Randall,Female,Sophmore,Yes,Yes,Yes,No,934,Furnished,185661838,Balanced,Late,Balanced
+Castor Compton,Female,Freshman,No,Yes,Yes,No,1046,UnFurnished,158947276,Balanced,Early,Balanced
+Aquila Peck,Other,Freshman,No,No,No,Yes,1518,Furnished,151588422,Balanced,Late,Interoverted
+Yetta Blankenship,Male,Junior,No,No,Yes,No,1259,UnFurnished,177296007,Balanced,Late,Very Social
+Derek Macias,Male,Senior,No,Yes,Yes,No,1506,Furnished,168117084,Very Tidy,Early,Interoverted
+Robin Hardy,Male,Senior,Yes,No,Yes,Yes,1400,Furnished,151710780,Very Tidy,Late,Very Social
+Charles Hubbard,Male,Senior,No,Yes,Yes,No,1726,UnFurnished,137715837,Very Untidy,Early,Balanced
+Quyn Davis,Female,Senior,No,No,No,Yes,1580,UnFurnished,195234141,Very Untidy,Late,Very Social
+Carla Hudson,Female,Freshman,Yes,Yes,Yes,Yes,940,Furnished,128092279,Balanced,Very Late,Very Social
+Suki Pennington,Female,Junior,No,Yes,No,Yes,1981,Furnished,182191653,Very Untidy,Early,Very Social
+Dustin Lawrence,Male,Senior,No,Yes,Yes,Yes,924,UnFurnished,175230736,Balanced,Late,Balanced
+Sarah Powers,Female,Senior,No,No,Yes,Yes,1248,Furnished,172416191,Balanced,Late,Very Social
+Bianca Mills,Male,Sophmore,No,No,No,Yes,1041,UnFurnished,171717017,Very Untidy,Very Late,Balanced
+Latifah Farrell,Male,Senior,Yes,No,No,Yes,1408,Furnished,126480985,Balanced,Late,Balanced
+Marvin Mclean,Female,Freshman,Yes,No,No,No,1009,Furnished,178889360,Very Tidy,Early,Balanced
+Aidan Rogers,Other,Junior,No,Yes,Yes,No,1977,UnFurnished,121324454,Balanced,Very Late,Balanced
+Emerson Marsh,Female,Freshman,Yes,Yes,No,No,1488,UnFurnished,142116606,Balanced,Late,Balanced
+Kelly Mccormick,Female,Sophmore,No,Yes,Yes,No,1799,Furnished,151984820,Balanced,Early,Very Social
+Ira Reese,Other,Sophmore,No,No,No,No,1104,Furnished,177418757,Very Tidy,Early,Very Social
+Steven Conrad,Female,Freshman,Yes,No,Yes,Yes,1950,Furnished,169127126,Very Tidy,Late,Balanced
+Sebastian Livingston,Female,Junior,No,Yes,Yes,Yes,1996,Furnished,120218956,Very Tidy,Early,Balanced
+Brynne Hayden,Female,Junior,Yes,Yes,Yes,No,1266,UnFurnished,136316131,Very Untidy,Early,Balanced
+Driscoll Young,Female,Freshman,No,Yes,No,No,1518,UnFurnished,104170070,Very Untidy,Early,Interoverted
+Susan Monroe,Other,Sophmore,Yes,No,Yes,Yes,1943,UnFurnished,130533834,Balanced,Early,Balanced
+Colby Spears,Female,Freshman,Yes,Yes,Yes,Yes,1795,Furnished,150548945,Balanced,Early,Balanced
+Josiah Lambert,Male,Sophmore,Yes,No,No,Yes,1882,Furnished,128015313,Very Tidy,Very Late,Very Social
+Irma Meyers,Female,Sophmore,No,No,Yes,No,1186,Furnished,134387071,Very Tidy,Late,Balanced
+Melissa Munoz,Female,Sophmore,Yes,Yes,Yes,Yes,1069,Furnished,140500967,Balanced,Very Late,Balanced
+Knox Mason,Male,Junior,Yes,Yes,Yes,No,1767,UnFurnished,194776638,Balanced,Early,Very Social
+Bert Dennis,Male,Sophmore,No,Yes,No,No,1624,UnFurnished,144469027,Balanced,Very Late,Interoverted
+Hashim Martin,Male,Junior,No,Yes,No,No,1276,Furnished,105248420,Balanced,Late,Balanced
+Hamish Whitehead,Male,Junior,Yes,No,Yes,No,1492,UnFurnished,132901923,Very Untidy,Late,Interoverted
+Salvador Bonner,Other,Sophmore,No,No,Yes,No,1787,Furnished,176334961,Balanced,Late,Very Social
+Kylie Kim,Female,Sophmore,No,No,Yes,Yes,1381,Furnished,112988270,Balanced,Late,Very Social
+Dorothy Sexton,Female,Junior,No,Yes,No,No,977,UnFurnished,130714462,Very Untidy,Late,Balanced
+Hop Nolan,Female,Sophmore,Yes,No,No,Yes,1699,Furnished,155560113,Balanced,Late,Interoverted
+Wallace Schwartz,Female,Sophmore,Yes,Yes,No,Yes,1674,UnFurnished,134428500,Very Untidy,Late,Balanced
+Idola Hart,Male,Sophmore,No,Yes,Yes,No,872,UnFurnished,140226498,Balanced,Early,Balanced
+Alec Williams,Female,Senior,Yes,Yes,Yes,Yes,1559,Furnished,194324886,Balanced,Late,Interoverted
+Ciaran Baldwin,Female,Senior,Yes,Yes,No,Yes,1547,Furnished,122025092,Balanced,Late,Balanced
+Stewart Ballard,Female,Senior,No,No,Yes,Yes,838,Furnished,186753765,Very Tidy,Late,Balanced
+Wyoming Bradshaw,Male,Junior,No,No,No,Yes,911,Furnished,103535532,Balanced,Very Late,Interoverted
+Elvis Hunter,Female,Junior,No,Yes,Yes,Yes,1486,Furnished,193193373,Balanced,Late,Interoverted
+Victor Mclaughlin,Female,Junior,Yes,No,No,No,1129,Furnished,112453529,Balanced,Early,Balanced
+Shelley Cruz,Female,Senior,Yes,Yes,Yes,Yes,1451,Furnished,149442597,Very Tidy,Very Late,Balanced
+Virginia Dunlap,Other,Freshman,No,Yes,Yes,No,1383,Furnished,127137854,Very Tidy,Early,Balanced
+Hasad Combs,Female,Freshman,No,No,Yes,No,1872,UnFurnished,192787572,Very Tidy,Late,Balanced
+Nadine Richmond,Male,Freshman,No,Yes,Yes,No,1198,Furnished,105997237,Balanced,Late,Balanced
+Yolanda Crawford,Male,Sophmore,No,Yes,No,Yes,1694,UnFurnished,164162980,Very Tidy,Very Late,Balanced
+Kiona Huff,Female,Sophmore,No,No,Yes,No,1064,Furnished,156588519,Balanced,Late,Interoverted
+Akeem Rogers,Female,Senior,No,Yes,Yes,Yes,1544,UnFurnished,127497097,Very Tidy,Very Late,Interoverted
+Hilel Guerrero,Other,Senior,No,No,Yes,No,835,Furnished,127861024,Balanced,Late,Very Social
+Alika Keller,Female,Freshman,No,No,Yes,No,1720,UnFurnished,122658508,Very Untidy,Very Late,Interoverted
+Jayme Levine,Female,Sophmore,Yes,Yes,No,No,1808,UnFurnished,156608752,Balanced,Late,Balanced
+Nasim Bowman,Other,Freshman,Yes,No,No,Yes,1085,UnFurnished,164167639,Balanced,Late,Very Social
+Dorothy Erickson,Male,Senior,Yes,Yes,No,Yes,1190,Furnished,101427284,Very Tidy,Late,Balanced
+Dai Downs,Female,Freshman,Yes,Yes,Yes,No,1576,UnFurnished,147017014,Balanced,Late,Very Social
+Callie Blankenship,Male,Junior,Yes,No,No,No,1420,Furnished,139958155,Balanced,Late,Balanced
+Emerald Bauer,Male,Junior,Yes,No,Yes,Yes,1429,Furnished,197475000,Very Tidy,Late,Interoverted
+Eugenia Pate,Other,Junior,Yes,Yes,Yes,Yes,871,UnFurnished,131330992,Balanced,Very Late,Balanced
+Leonard Battle,Male,Junior,Yes,Yes,Yes,Yes,1780,Furnished,110148007,Very Tidy,Early,Interoverted
+Jaden Elliott,Female,Freshman,No,No,No,No,1379,UnFurnished,198910195,Very Tidy,Late,Balanced
+Keelie Rivas,Female,Freshman,Yes,No,Yes,No,1078,Furnished,116745521,Very Tidy,Late,Balanced
+Leah Noble,Other,Sophmore,No,No,Yes,Yes,823,UnFurnished,164474827,Balanced,Very Late,Interoverted
+Jane Holder,Female,Junior,No,Yes,No,No,1471,Furnished,194009605,Very Tidy,Early,Interoverted
+Leonard Downs,Female,Senior,No,Yes,No,No,1404,UnFurnished,106123272,Balanced,Late,Balanced
+Roth Morrison,Female,Junior,Yes,Yes,No,No,1775,Furnished,149442553,Balanced,Late,Interoverted
+Keegan English,Female,Senior,No,No,No,Yes,1734,UnFurnished,156515253,Very Tidy,Late,Very Social
+Micah Lambert,Female,Junior,Yes,No,No,No,1807,UnFurnished,117999444,Very Untidy,Late,Balanced
+Kasper Wright,Female,Freshman,No,No,Yes,Yes,1268,Furnished,128883194,Very Untidy,Very Late,Very Social
+Ezra Whitehead,Female,Junior,No,No,No,No,1183,UnFurnished,197203383,Balanced,Early,Balanced
+Marsden Cotton,Female,Sophmore,No,No,Yes,No,1253,Furnished,174656342,Very Tidy,Late,Interoverted
+Constance Noble,Other,Sophmore,Yes,Yes,No,No,817,Furnished,191491179,Very Tidy,Early,Balanced
+Ciara Malone,Other,Senior,Yes,No,No,Yes,1023,Furnished,169320516,Very Tidy,Late,Balanced
+Randall Branch,Other,Junior,Yes,No,No,No,1087,UnFurnished,155993354,Very Untidy,Early,Balanced
+Brittany Rollins,Female,Sophmore,No,No,No,No,1419,Furnished,197599314,Very Untidy,Late,Balanced
+Irma Mccullough,Female,Junior,Yes,Yes,Yes,Yes,1083,Furnished,138572097,Very Untidy,Late,Balanced
+Emerson Fields,Female,Senior,No,No,Yes,Yes,1565,UnFurnished,177606551,Balanced,Late,Very Social
+Hedy Neal,Female,Senior,Yes,No,Yes,Yes,1712,UnFurnished,175965776,Very Untidy,Early,Interoverted
+Hyatt Tucker,Female,Sophmore,Yes,No,No,No,1634,UnFurnished,162591331,Balanced,Early,Interoverted
+Amery Valentine,Female,Sophmore,Yes,Yes,No,Yes,1076,UnFurnished,173151101,Balanced,Early,Balanced
+Cruz Mcknight,Male,Freshman,No,No,Yes,Yes,1552,UnFurnished,120456970,Very Tidy,Late,Interoverted
+TaShya Tillman,Female,Junior,Yes,Yes,No,No,1234,UnFurnished,152844223,Very Tidy,Late,Balanced
+Chaim Head,Female,Junior,No,Yes,No,Yes,1053,Furnished,183996255,Very Untidy,Late,Very Social
+Rina Murphy,Female,Sophmore,Yes,Yes,No,No,1404,UnFurnished,105578904,Very Tidy,Early,Balanced
+Salvador Clemons,Female,Senior,No,Yes,Yes,Yes,1023,UnFurnished,173788972,Very Tidy,Late,Balanced
+Geoffrey Donaldson,Female,Senior,No,No,Yes,No,1640,Furnished,106895074,Balanced,Very Late,Interoverted
+Serina Frazier,Female,Sophmore,Yes,No,No,Yes,1899,Furnished,122836576,Very Tidy,Late,Balanced
+Keaton Wiggins,Other,Freshman,No,No,Yes,Yes,1751,Furnished,139093620,Very Tidy,Late,Balanced
+Theodore Mercado,Other,Junior,No,Yes,Yes,Yes,1634,Furnished,100234088,Balanced,Very Late,Very Social
+Elliott Goodwin,Other,Junior,Yes,Yes,No,Yes,1533,Furnished,191326800,Balanced,Late,Balanced
+Inez Pate,Other,Sophmore,No,Yes,No,Yes,1778,Furnished,102943628,Balanced,Late,Balanced
+Joelle Allen,Female,Senior,No,No,No,Yes,1605,Furnished,162225015,Very Tidy,Early,Very Social
+Odessa Savage,Female,Sophmore,Yes,No,No,Yes,1553,Furnished,154480774,Balanced,Late,Balanced
+Cynthia Morton,Female,Junior,Yes,Yes,No,Yes,1594,UnFurnished,156422020,Balanced,Early,Very Social
+Odysseus Sweeney,Male,Sophmore,No,Yes,No,Yes,1797,UnFurnished,143416984,Balanced,Late,Interoverted
+Neil Fitzpatrick,Male,Sophmore,No,No,No,Yes,1248,Furnished,151188774,Very Tidy,Late,Balanced
+Fitzgerald Hebert,Female,Freshman,No,Yes,Yes,Yes,1570,UnFurnished,125346479,Very Tidy,Very Late,Interoverted
+Xavier Frost,Other,Senior,No,No,No,Yes,1929,Furnished,154241066,Very Untidy,Very Late,Balanced
+Jana Langley,Female,Junior,No,No,Yes,No,1187,Furnished,103774395,Very Tidy,Very Late,Interoverted
+Gabriel Mcfarland,Male,Sophmore,Yes,No,No,No,1261,Furnished,184347034,Very Tidy,Early,Balanced
+Nathaniel Lynch,Male,Sophmore,No,Yes,No,No,1310,UnFurnished,197516781,Balanced,Late,Balanced
+Norman Winters,Female,Freshman,Yes,Yes,No,No,1383,UnFurnished,188670458,Very Untidy,Very Late,Balanced
+Louis Cross,Female,Junior,Yes,Yes,Yes,Yes,1738,UnFurnished,111564508,Very Tidy,Very Late,Very Social
+Cole Hardin,Female,Sophmore,No,Yes,Yes,No,965,UnFurnished,124928013,Balanced,Very Late,Very Social
+Troy Campbell,Other,Sophmore,Yes,Yes,Yes,Yes,1074,UnFurnished,126888269,Balanced,Early,Balanced
+Branden Middleton,Male,Senior,Yes,No,Yes,No,1813,UnFurnished,175497198,Balanced,Very Late,Interoverted
+Kibo Saunders,Female,Junior,Yes,Yes,Yes,Yes,1537,Furnished,129323564,Very Untidy,Late,Balanced
+Lionel Hogan,Female,Freshman,No,No,Yes,Yes,1889,UnFurnished,174403753,Very Tidy,Early,Interoverted
+Baxter Santos,Male,Junior,Yes,No,No,No,1645,UnFurnished,170177073,Very Untidy,Very Late,Balanced
+Whilemina Daugherty,Female,Junior,No,No,No,No,1950,Furnished,176641275,Balanced,Late,Very Social
+Meredith Reynolds,Other,Sophmore,No,No,No,No,1470,UnFurnished,189885128,Balanced,Early,Interoverted
+Rashad Avery,Female,Senior,Yes,No,Yes,Yes,1927,UnFurnished,131069536,Balanced,Late,Balanced
+Griffin Moses,Other,Sophmore,Yes,No,Yes,Yes,1801,Furnished,101218349,Balanced,Late,Very Social
+Ronan Mueller,Male,Senior,No,No,No,Yes,1893,Furnished,154203734,Balanced,Late,Very Social
+Preston Buckner,Female,Freshman,Yes,Yes,No,Yes,1190,UnFurnished,187896861,Very Untidy,Very Late,Interoverted
+Sacha Miranda,Male,Freshman,Yes,Yes,No,No,1179,Furnished,152384364,Very Tidy,Early,Balanced
+Leslie Payne,Male,Sophmore,Yes,Yes,Yes,Yes,1484,Furnished,108382530,Balanced,Very Late,Balanced
+Phyllis Murray,Female,Freshman,No,Yes,Yes,No,1924,UnFurnished,186758835,Very Tidy,Late,Interoverted
+Demetrius Weaver,Other,Sophmore,Yes,No,Yes,No,1184,Furnished,159301680,Very Untidy,Very Late,Very Social
+Mason Hunter,Other,Sophmore,No,No,Yes,No,1753,Furnished,130489138,Balanced,Early,Balanced
+Frances Mercado,Female,Junior,No,No,Yes,No,1797,UnFurnished,173125566,Very Untidy,Late,Balanced
+Harriet Hansen,Female,Senior,No,No,Yes,Yes,1922,Furnished,183035620,Balanced,Late,Balanced
+Zachary Hodge,Other,Freshman,Yes,Yes,Yes,Yes,1700,Furnished,154858778,Balanced,Late,Interoverted
+Byron Vega,Female,Junior,Yes,Yes,Yes,Yes,1098,UnFurnished,133750922,Balanced,Very Late,Very Social
+Sonia Woodward,Other,Senior,Yes,Yes,No,No,951,Furnished,160849548,Balanced,Early,Very Social
+Kenneth Gaines,Female,Sophmore,No,No,No,Yes,1391,UnFurnished,177147025,Balanced,Late,Balanced
+Josiah Carlson,Male,Sophmore,No,No,No,No,1416,UnFurnished,127665329,Balanced,Early,Balanced
+Britanni Jensen,Other,Junior,Yes,Yes,Yes,Yes,1622,UnFurnished,148577723,Very Tidy,Early,Balanced
+Shay Lindsey,Other,Sophmore,Yes,No,No,No,1031,Furnished,131554397,Balanced,Early,Interoverted
+Rooney Watkins,Female,Sophmore,No,No,No,No,1449,UnFurnished,158309831,Very Tidy,Late,Very Social
+Noble Lloyd,Female,Freshman,Yes,Yes,No,Yes,1957,UnFurnished,175171259,Very Untidy,Late,Very Social
+Illana Gentry,Female,Junior,No,No,Yes,Yes,1683,UnFurnished,173066495,Very Untidy,Early,Interoverted
+Samuel Newton,Male,Senior,Yes,Yes,Yes,No,1988,Furnished,174544822,Balanced,Very Late,Very Social
+Elliott Mccoy,Female,Senior,Yes,No,No,Yes,1574,UnFurnished,180700281,Very Untidy,Late,Balanced
+Anjolie Ruiz,Female,Junior,No,Yes,Yes,Yes,1269,UnFurnished,153203986,Very Untidy,Late,Interoverted
+Jillian Clarke,Male,Junior,Yes,Yes,Yes,Yes,902,Furnished,103703370,Very Untidy,Very Late,Balanced
+Lawrence Murphy,Female,Freshman,No,Yes,Yes,No,1181,UnFurnished,136179254,Balanced,Early,Interoverted
+Reece Salinas,Other,Freshman,No,No,Yes,No,1957,UnFurnished,181858925,Balanced,Very Late,Balanced
+Brody Forbes,Female,Sophmore,Yes,Yes,Yes,No,1218,UnFurnished,172313676,Balanced,Very Late,Interoverted
+Anne Frederick,Male,Junior,No,No,No,No,856,UnFurnished,132404001,Balanced,Late,Very Social
+Maya Blackburn,Other,Freshman,No,No,No,No,1068,Furnished,159391588,Balanced,Late,Balanced
+Dylan Chambers,Female,Senior,Yes,No,Yes,No,1122,UnFurnished,163197281,Balanced,Late,Interoverted
+Regan Patrick,Female,Senior,No,Yes,Yes,Yes,841,Furnished,185238324,Balanced,Very Late,Very Social
+Calvin Monroe,Other,Junior,No,Yes,Yes,No,1302,UnFurnished,186404128,Very Tidy,Early,Balanced
+Maisie Dyer,Female,Freshman,No,Yes,No,Yes,1490,UnFurnished,145668966,Very Tidy,Late,Balanced
+Cedric Baker,Other,Junior,Yes,Yes,No,No,960,Furnished,194229436,Very Untidy,Early,Very Social
+Astra Finley,Male,Freshman,No,Yes,Yes,No,1584,UnFurnished,146616187,Balanced,Very Late,Interoverted
+Illiana Vargas,Other,Sophmore,No,Yes,No,Yes,1210,UnFurnished,172613538,Very Untidy,Late,Interoverted
+MacKensie Downs,Female,Junior,Yes,Yes,No,No,1764,Furnished,153503140,Very Untidy,Very Late,Interoverted
+Kermit Ruiz,Female,Freshman,Yes,No,Yes,No,1826,UnFurnished,110934968,Very Tidy,Early,Interoverted
+Rylee Wilkinson,Female,Senior,Yes,Yes,No,Yes,1880,UnFurnished,147166509,Balanced,Late,Very Social
+Barclay Hurley,Other,Senior,Yes,Yes,Yes,Yes,1671,UnFurnished,106809512,Very Untidy,Early,Balanced
+Lacey Landry,Female,Sophmore,Yes,No,No,Yes,1424,Furnished,189722482,Very Untidy,Early,Very Social
+Charissa Gould,Male,Junior,Yes,Yes,No,No,1143,Furnished,100350064,Balanced,Late,Balanced
+Dalton Talley,Female,Junior,No,No,No,No,1537,UnFurnished,149722595,Balanced,Early,Interoverted
+Hannah Horton,Female,Freshman,Yes,No,Yes,Yes,1547,Furnished,133115948,Very Untidy,Very Late,Balanced
+Cassidy Leblanc,Other,Junior,Yes,Yes,Yes,Yes,1350,UnFurnished,186609640,Very Tidy,Late,Balanced
+Kevin Sosa,Male,Freshman,No,No,No,No,1922,Furnished,194035448,Very Tidy,Early,Balanced
+Wyoming Goodman,Female,Freshman,Yes,Yes,Yes,No,1209,Furnished,143886494,Balanced,Late,Balanced
+Wynter Lindsey,Female,Sophmore,Yes,No,Yes,No,1469,Furnished,175651464,Balanced,Late,Balanced
+Phelan Lara,Male,Junior,No,No,Yes,Yes,1156,Furnished,122858385,Balanced,Early,Balanced
+Caryn Wong,Female,Freshman,No,No,No,Yes,1752,Furnished,159153963,Balanced,Early,Balanced
+Tiger Adkins,Female,Senior,Yes,Yes,Yes,Yes,1146,Furnished,103282896,Balanced,Early,Very Social
+Jenette Gibson,Other,Senior,No,No,No,No,1871,UnFurnished,175643227,Balanced,Very Late,Balanced
+Ignatius Hodge,Male,Senior,No,No,Yes,Yes,1409,UnFurnished,130996427,Very Untidy,Late,Interoverted
+Connor Madden,Other,Junior,Yes,No,No,No,1123,UnFurnished,192852837,Very Untidy,Late,Balanced
+Claudia Mitchell,Other,Sophmore,Yes,No,No,No,1141,Furnished,118201957,Balanced,Very Late,Balanced
+Daphne Guerrero,Female,Sophmore,Yes,No,No,No,1550,UnFurnished,190485549,Balanced,Very Late,Balanced
+Hadley Avila,Female,Sophmore,No,Yes,Yes,No,1701,UnFurnished,191861857,Very Untidy,Late,Balanced
+Gregory Vargas,Male,Senior,No,Yes,Yes,Yes,1966,UnFurnished,154691885,Balanced,Late,Very Social
+Ciaran Stuart,Male,Sophmore,Yes,No,Yes,Yes,933,UnFurnished,156845513,Very Tidy,Late,Balanced
+Bryar Burris,Female,Junior,No,Yes,No,No,910,UnFurnished,181312075,Very Untidy,Very Late,Balanced
+Denton Mckee,Other,Senior,Yes,No,No,Yes,1901,UnFurnished,118182549,Balanced,Late,Balanced
+Yael Baxter,Male,Junior,No,No,Yes,No,1509,UnFurnished,128947150,Balanced,Early,Balanced
+Penelope Chavez,Female,Freshman,No,Yes,Yes,No,1180,UnFurnished,185420573,Very Untidy,Late,Interoverted
+Burton Small,Other,Sophmore,No,No,Yes,No,1322,Furnished,110769245,Very Untidy,Early,Balanced
+Dacey Roy,Female,Sophmore,Yes,No,No,No,824,Furnished,139060875,Balanced,Late,Balanced
+Kimberly Garcia,Other,Sophmore,No,Yes,No,No,1245,Furnished,157847185,Very Untidy,Late,Interoverted
+Tashya Marks,Female,Freshman,No,Yes,Yes,No,1758,Furnished,186396194,Very Tidy,Late,Very Social
+Jacob Lucas,Other,Freshman,No,Yes,Yes,No,1992,Furnished,142280387,Balanced,Late,Balanced
+Cleo Bell,Other,Freshman,Yes,No,No,Yes,1932,Furnished,108553900,Very Untidy,Late,Interoverted
+Gabriel O'donnell,Female,Sophmore,No,Yes,No,No,846,Furnished,106544633,Very Tidy,Early,Interoverted
+Ramona Guthrie,Female,Junior,No,No,Yes,Yes,1633,Furnished,197242610,Balanced,Early,Very Social
+Carolyn Wheeler,Female,Sophmore,Yes,Yes,Yes,Yes,1707,Furnished,150899162,Balanced,Very Late,Interoverted
+Flavia Chase,Female,Freshman,No,No,Yes,Yes,1225,UnFurnished,132702518,Balanced,Late,Balanced
+Castor Medina,Male,Sophmore,Yes,No,No,No,1968,UnFurnished,156263345,Very Tidy,Very Late,Balanced
+Mona Campbell,Other,Sophmore,Yes,No,No,No,1258,UnFurnished,140148519,Balanced,Very Late,Interoverted
+Noble Hodges,Male,Junior,Yes,Yes,Yes,Yes,1526,UnFurnished,103605268,Very Untidy,Early,Very Social
+Hedwig Manning,Other,Sophmore,No,No,No,Yes,1869,Furnished,123896766,Very Tidy,Very Late,Interoverted
+Steven Crane,Female,Sophmore,No,Yes,No,Yes,1949,UnFurnished,110996381,Balanced,Late,Interoverted
+Constance Oneil,Female,Sophmore,No,Yes,No,No,820,UnFurnished,133383389,Very Tidy,Early,Balanced
+Tiger Howe,Other,Junior,Yes,Yes,No,No,1317,UnFurnished,141060876,Balanced,Late,Balanced
+Thane Bullock,Male,Senior,No,No,Yes,No,1761,Furnished,173921970,Balanced,Late,Very Social
+Hermione Trevino,Female,Junior,No,No,No,No,1898,Furnished,101427190,Very Tidy,Late,Very Social
+Charles Guerrero,Female,Junior,Yes,Yes,No,No,1531,UnFurnished,153996428,Very Untidy,Late,Very Social
+Candace Marks,Male,Freshman,No,Yes,No,No,1836,Furnished,136123858,Balanced,Late,Very Social
+Yolanda Molina,Female,Sophmore,Yes,No,No,No,990,Furnished,150674017,Very Tidy,Very Late,Balanced
+Isabella Barr,Other,Junior,No,Yes,No,Yes,974,Furnished,133702101,Balanced,Early,Very Social
+Bruce Russell,Male,Junior,No,No,No,Yes,1646,Furnished,171082448,Very Tidy,Very Late,Balanced
+Molly Spears,Female,Junior,Yes,Yes,Yes,Yes,1064,Furnished,198760574,Very Tidy,Very Late,Very Social
+Maile Benson,Other,Junior,No,Yes,Yes,No,1330,UnFurnished,140689319,Very Untidy,Late,Interoverted
+Noelani Dixon,Male,Junior,No,No,Yes,No,1290,Furnished,103011845,Balanced,Very Late,Balanced
+Martina Jimenez,Other,Sophmore,Yes,Yes,No,Yes,936,UnFurnished,153106484,Balanced,Late,Interoverted
+Kim Trujillo,Male,Junior,No,No,No,Yes,1918,Furnished,145110197,Very Tidy,Late,Very Social
+Gisela Kelly,Female,Sophmore,Yes,Yes,Yes,No,853,Furnished,164827251,Balanced,Late,Balanced
+Evangeline Snyder,Female,Sophmore,No,No,No,No,1183,UnFurnished,172676645,Balanced,Late,Very Social
+Fletcher Kinney,Female,Junior,Yes,No,No,Yes,1115,UnFurnished,137508207,Balanced,Late,Balanced
+Brody Lowe,Other,Sophmore,Yes,No,Yes,Yes,1631,Furnished,104487863,Balanced,Very Late,Interoverted
+Rina Burch,Male,Sophmore,Yes,No,Yes,No,1067,UnFurnished,176003057,Balanced,Late,Very Social
+Bell Garrett,Male,Freshman,No,No,Yes,No,1295,Furnished,193819286,Very Untidy,Early,Balanced
+Belle Kirkland,Male,Freshman,Yes,No,No,No,1126,UnFurnished,154089933,Very Tidy,Very Late,Interoverted
+Linus Lancaster,Female,Junior,No,Yes,No,No,1285,UnFurnished,179763556,Very Tidy,Very Late,Balanced
+Jermaine Suarez,Male,Junior,No,Yes,Yes,No,1702,Furnished,114755132,Balanced,Late,Balanced
+Hermione Thompson,Male,Junior,Yes,Yes,Yes,No,1075,Furnished,133373653,Very Untidy,Late,Balanced
+Beau Carrillo,Female,Junior,No,Yes,No,No,1606,UnFurnished,170892853,Balanced,Late,Balanced
+Solomon Hudson,Female,Sophmore,Yes,Yes,Yes,No,1759,Furnished,101410924,Balanced,Late,Balanced
+Vernon Collier,Female,Junior,No,No,No,No,1224,UnFurnished,135167682,Very Untidy,Late,Balanced
+Zena Morgan,Other,Senior,Yes,No,No,Yes,1735,UnFurnished,160221449,Very Tidy,Late,Balanced
+Karyn Armstrong,Female,Senior,No,No,Yes,Yes,1300,UnFurnished,104417086,Very Tidy,Very Late,Very Social
+Boris Fisher,Female,Junior,No,Yes,No,Yes,973,Furnished,124732377,Balanced,Very Late,Balanced
+Yuli Rogers,Male,Freshman,No,Yes,No,No,955,Furnished,135458459,Balanced,Very Late,Interoverted
+Donovan Rodgers,Female,Senior,Yes,No,No,Yes,1514,UnFurnished,168577714,Balanced,Late,Balanced
+Petra Cantu,Other,Senior,No,No,Yes,No,1318,Furnished,179886885,Balanced,Late,Balanced
+Alisa Yang,Other,Senior,Yes,Yes,Yes,Yes,814,Furnished,180398368,Very Tidy,Very Late,Balanced
+Amaya Bright,Female,Senior,No,Yes,No,Yes,1230,UnFurnished,196995917,Balanced,Early,Balanced
+Jamal Jackson,Female,Sophmore,Yes,Yes,Yes,Yes,1188,Furnished,139113998,Very Untidy,Late,Balanced
+Cain Guy,Other,Sophmore,Yes,No,Yes,No,1807,UnFurnished,133035246,Very Untidy,Early,Balanced
+Kylan Prince,Female,Junior,Yes,No,Yes,Yes,1635,UnFurnished,131014777,Balanced,Very Late,Balanced
+Chadwick Hanson,Female,Senior,Yes,No,No,Yes,1411,UnFurnished,148113920,Balanced,Late,Balanced
+Mariam Moreno,Other,Junior,No,No,Yes,No,1887,Furnished,135880987,Balanced,Late,Balanced
+Garrett Collins,Female,Sophmore,Yes,Yes,Yes,No,1873,UnFurnished,122168659,Balanced,Very Late,Very Social
+Amos Massey,Female,Freshman,No,Yes,Yes,No,1990,UnFurnished,179635862,Very Untidy,Late,Balanced
+Austin Savage,Female,Junior,Yes,Yes,No,Yes,1415,UnFurnished,123470278,Balanced,Very Late,Very Social
+Jelani Carson,Male,Senior,No,Yes,Yes,No,1114,Furnished,190946247,Balanced,Early,Balanced
+Jessica Boyle,Other,Freshman,No,Yes,Yes,Yes,842,Furnished,160636608,Balanced,Early,Balanced
+Gregory Palmer,Male,Freshman,No,Yes,No,No,1668,Furnished,172489758,Balanced,Early,Balanced
+Allen Pierce,Female,Senior,No,No,No,Yes,1315,Furnished,145793183,Very Untidy,Late,Interoverted
+Lionel Rogers,Female,Junior,Yes,No,Yes,No,1490,Furnished,193308556,Balanced,Late,Interoverted
+Jemima Nieves,Other,Junior,Yes,No,No,No,1046,Furnished,161842712,Very Tidy,Late,Interoverted
+Lesley Rush,Male,Sophmore,Yes,Yes,Yes,No,967,UnFurnished,108385141,Balanced,Late,Very Social
+Morgan Mcgowan,Female,Junior,Yes,Yes,Yes,Yes,882,Furnished,107528412,Very Untidy,Late,Interoverted
+Abraham Curry,Female,Senior,No,Yes,Yes,No,809,Furnished,120520526,Very Untidy,Late,Balanced
+September Buchanan,Other,Sophmore,No,Yes,Yes,No,1380,UnFurnished,124077832,Balanced,Late,Interoverted
+Bethany Villarreal,Female,Junior,Yes,Yes,Yes,Yes,958,Furnished,193839056,Balanced,Late,Balanced
+Risa Pena,Male,Sophmore,No,Yes,No,No,1597,UnFurnished,139108686,Very Untidy,Late,Very Social
+Steel Ward,Female,Junior,Yes,No,No,Yes,1787,Furnished,197605920,Balanced,Late,Balanced
+Tucker Gould,Female,Sophmore,No,Yes,No,No,1589,UnFurnished,141347164,Very Untidy,Late,Balanced
+Rama Alexander,Male,Senior,No,No,No,No,1101,Furnished,170089882,Very Untidy,Early,Very Social
+Quinn Goodman,Male,Junior,Yes,No,Yes,No,1373,Furnished,155942295,Balanced,Early,Very Social
+Ralph Welch,Male,Junior,No,No,Yes,No,1841,Furnished,130278470,Balanced,Late,Interoverted
+Kennedy Hopper,Other,Senior,Yes,No,No,No,1291,Furnished,134417396,Balanced,Early,Interoverted
+Keiko Bean,Female,Junior,Yes,No,No,No,1555,Furnished,165073225,Very Tidy,Early,Very Social
+Ian Monroe,Female,Junior,Yes,Yes,Yes,Yes,1509,UnFurnished,184923005,Very Untidy,Early,Very Social
+Ivor Gill,Female,Junior,Yes,No,No,No,1643,Furnished,130648785,Very Tidy,Late,Interoverted
+Nicholas Hall,Male,Sophmore,No,Yes,No,No,1582,Furnished,117113847,Very Tidy,Early,Balanced
+Devin Anthony,Female,Freshman,No,Yes,Yes,No,1142,Furnished,131369709,Balanced,Late,Interoverted
+Lester Marquez,Male,Junior,No,Yes,Yes,Yes,1205,UnFurnished,153835251,Balanced,Very Late,Balanced
+Caldwell Waller,Female,Freshman,Yes,Yes,No,No,1774,Furnished,178817422,Balanced,Late,Balanced
+Leroy Rios,Female,Sophmore,No,No,No,Yes,1014,UnFurnished,173715118,Very Tidy,Late,Interoverted
+Chester Lester,Other,Junior,Yes,Yes,Yes,No,1468,Furnished,140124941,Balanced,Very Late,Balanced
+Salvador Andrews,Other,Sophmore,Yes,Yes,Yes,No,1806,UnFurnished,197620949,Balanced,Late,Interoverted
+Urielle Kerr,Female,Sophmore,No,No,No,Yes,952,UnFurnished,149331890,Very Tidy,Very Late,Very Social
+Cole Velasquez,Male,Junior,No,No,No,Yes,1239,Furnished,137969350,Very Untidy,Early,Balanced
+Astra Lynch,Female,Sophmore,Yes,Yes,Yes,Yes,1905,UnFurnished,160461241,Balanced,Late,Balanced
+Amos Hodges,Female,Senior,No,Yes,Yes,No,1584,UnFurnished,199500360,Very Tidy,Late,Interoverted
+Maya Conway,Female,Senior,No,No,Yes,No,1166,UnFurnished,108687805,Balanced,Very Late,Balanced
+Isabella Blankenship,Male,Sophmore,Yes,No,No,No,1882,Furnished,156690830,Very Untidy,Early,Very Social
+Lars Frazier,Female,Sophmore,Yes,No,Yes,Yes,1219,UnFurnished,189003704,Very Untidy,Very Late,Very Social
+Bruce Vazquez,Female,Junior,Yes,Yes,Yes,No,1757,Furnished,131378165,Balanced,Early,Balanced
+Illana Mendoza,Female,Junior,Yes,Yes,Yes,Yes,1088,UnFurnished,183909628,Balanced,Early,Balanced
+Lucy Gardner,Female,Senior,Yes,Yes,Yes,Yes,1029,Furnished,141094466,Very Tidy,Late,Interoverted
+Levi Keith,Other,Sophmore,Yes,Yes,Yes,No,1052,Furnished,139143680,Very Tidy,Late,Very Social
+Thaddeus Carroll,Male,Senior,Yes,Yes,No,Yes,1158,UnFurnished,169020914,Balanced,Very Late,Balanced
+Katell Decker,Female,Sophmore,No,No,Yes,Yes,1514,Furnished,185290780,Very Untidy,Very Late,Very Social
+Pearl Snow,Female,Junior,No,No,Yes,Yes,1548,Furnished,117882722,Balanced,Late,Very Social
+Bevis Luna,Other,Junior,No,Yes,Yes,No,1824,UnFurnished,143855456,Balanced,Early,Balanced
+Raven Mcleod,Female,Sophmore,No,Yes,Yes,Yes,1971,UnFurnished,108367990,Balanced,Late,Interoverted
+Brody Middleton,Other,Freshman,Yes,No,No,No,1915,UnFurnished,181914964,Very Tidy,Late,Balanced
+Martha Alvarez,Female,Sophmore,No,No,No,No,1243,Furnished,187796253,Balanced,Very Late,Interoverted
+Kalia Hebert,Other,Freshman,No,No,No,No,1763,Furnished,179468603,Very Tidy,Early,Balanced
+Autumn Hayden,Male,Freshman,Yes,Yes,No,Yes,1894,Furnished,100000264,Very Untidy,Late,Balanced
+Beverly Bowen,Other,Sophmore,Yes,No,Yes,Yes,1914,Furnished,117022579,Very Untidy,Very Late,Balanced
+Adara Baker,Female,Junior,Yes,Yes,No,Yes,904,UnFurnished,198872389,Very Tidy,Very Late,Interoverted
+Lysandra Silva,Male,Senior,Yes,No,Yes,No,1477,UnFurnished,124034207,Balanced,Late,Balanced
+Orlando Mcmahon,Other,Junior,Yes,No,Yes,No,1484,UnFurnished,134569412,Balanced,Late,Interoverted
+Ezra Lopez,Other,Senior,No,No,No,Yes,1932,Furnished,106869710,Balanced,Late,Balanced
+Stacy Walter,Other,Junior,Yes,No,Yes,Yes,1245,Furnished,187442991,Very Tidy,Late,Balanced
+Ali Guerra,Female,Sophmore,Yes,Yes,Yes,Yes,1457,UnFurnished,138321267,Balanced,Very Late,Balanced
+Raja Santos,Female,Senior,No,Yes,No,Yes,1025,UnFurnished,183301727,Very Tidy,Very Late,Balanced
+Emerald Page,Female,Sophmore,No,No,No,No,1750,UnFurnished,169956440,Very Untidy,Early,Very Social
+Chaney Hays,Female,Junior,Yes,No,Yes,Yes,1278,Furnished,164060977,Balanced,Late,Balanced
+Allen Mejia,Female,Sophmore,Yes,Yes,Yes,No,1537,Furnished,114535472,Very Untidy,Late,Balanced
+Idona Petersen,Male,Sophmore,Yes,No,No,Yes,1061,UnFurnished,177307307,Very Tidy,Very Late,Balanced
+Fritz Jones,Female,Freshman,No,No,Yes,No,1415,UnFurnished,106819562,Very Tidy,Late,Very Social
+Kyra Delacruz,Male,Junior,No,Yes,Yes,No,1545,Furnished,157933776,Balanced,Early,Balanced
+Hedy Bridges,Other,Freshman,No,No,Yes,No,1288,Furnished,165261259,Very Tidy,Late,Balanced
+Chaim Cooley,Male,Freshman,No,Yes,No,No,1320,UnFurnished,134021947,Balanced,Late,Very Social
+Kane Buckner,Male,Sophmore,No,No,Yes,Yes,1608,Furnished,192038981,Very Untidy,Early,Balanced
+Demetrius Chen,Other,Junior,Yes,Yes,No,No,1025,Furnished,134104750,Balanced,Early,Balanced
+Adria Mcknight,Female,Junior,No,Yes,No,Yes,1074,UnFurnished,149628587,Balanced,Late,Very Social
+Justina Turner,Other,Junior,Yes,Yes,Yes,No,826,Furnished,166129501,Very Untidy,Early,Interoverted
+Griffith Newman,Other,Sophmore,Yes,Yes,No,Yes,1890,UnFurnished,132165942,Very Untidy,Early,Balanced
+Hamish Burks,Female,Sophmore,Yes,No,Yes,Yes,1439,UnFurnished,187105196,Very Tidy,Early,Interoverted
+Harper Stone,Female,Senior,No,Yes,No,Yes,1927,Furnished,104613096,Very Untidy,Early,Balanced
+Lysandra Houston,Other,Sophmore,No,Yes,Yes,Yes,1613,Furnished,157208278,Balanced,Very Late,Balanced
+Idola Newton,Male,Senior,No,Yes,Yes,No,1559,UnFurnished,183042054,Balanced,Late,Balanced
+Nerea Riddle,Male,Freshman,Yes,No,Yes,No,1112,Furnished,132346629,Very Untidy,Very Late,Balanced
+Donna Nguyen,Female,Senior,Yes,Yes,No,No,1989,UnFurnished,145071893,Very Tidy,Late,Interoverted
+Elaine Parrish,Male,Junior,No,No,Yes,No,1661,UnFurnished,180962145,Very Tidy,Late,Balanced
+Lamar Gaines,Other,Sophmore,No,Yes,No,No,1334,Furnished,105998302,Balanced,Early,Balanced
+Rebecca Herrera,Female,Sophmore,No,Yes,Yes,No,1964,UnFurnished,163609865,Balanced,Late,Balanced
+Hayden Summers,Other,Sophmore,Yes,No,Yes,No,1036,UnFurnished,118476444,Very Tidy,Very Late,Interoverted
+Jana Spencer,Female,Sophmore,No,No,No,Yes,1623,Furnished,170161816,Balanced,Late,Balanced
+Nerea Holt,Female,Freshman,No,Yes,Yes,Yes,1263,Furnished,180330531,Balanced,Very Late,Balanced
+Rajah Mcgowan,Other,Sophmore,Yes,No,No,Yes,895,UnFurnished,164170457,Balanced,Late,Balanced
+Elaine Greene,Female,Sophmore,No,No,No,Yes,1975,UnFurnished,105919068,Balanced,Very Late,Interoverted
+Hermione Phelps,Other,Senior,No,No,Yes,Yes,1742,Furnished,167306023,Balanced,Late,Balanced
+Melyssa Sanchez,Female,Senior,No,No,No,Yes,1690,Furnished,165955723,Balanced,Late,Balanced
+Kenneth Hamilton,Female,Freshman,Yes,No,No,No,1976,UnFurnished,177838014,Very Tidy,Late,Balanced
+Brett Warren,Female,Sophmore,Yes,No,No,Yes,1982,Furnished,164205510,Balanced,Late,Balanced
+Hedy Preston,Female,Senior,No,Yes,No,Yes,1654,Furnished,145504821,Balanced,Late,Interoverted
+Abraham Peterson,Female,Sophmore,No,Yes,No,Yes,989,UnFurnished,145447399,Very Untidy,Very Late,Interoverted
+Chaney Trujillo,Female,Freshman,No,Yes,No,No,1605,Furnished,171108770,Very Tidy,Early,Interoverted
+Basil Townsend,Female,Junior,No,Yes,No,No,1332,UnFurnished,166337513,Balanced,Late,Interoverted
+Deanna Blanchard,Male,Sophmore,No,No,Yes,Yes,1521,Furnished,123400725,Balanced,Very Late,Interoverted
+Rosalyn Melton,Male,Senior,Yes,No,Yes,No,863,Furnished,125646464,Very Untidy,Late,Balanced
+Rajah Frank,Other,Freshman,No,No,Yes,No,1156,UnFurnished,115323398,Very Tidy,Very Late,Balanced
+Mary Logan,Other,Junior,Yes,Yes,Yes,Yes,1381,UnFurnished,192167410,Balanced,Very Late,Very Social
+Roth Hernandez,Other,Junior,No,No,No,No,923,UnFurnished,141811392,Balanced,Early,Interoverted
+Katell Fleming,Other,Senior,Yes,No,No,Yes,1569,UnFurnished,140552158,Balanced,Early,Very Social
+Madaline Heath,Other,Junior,No,Yes,No,No,960,UnFurnished,192472963,Balanced,Early,Interoverted
+Ruth Trevino,Male,Senior,No,Yes,No,Yes,1903,UnFurnished,188506412,Balanced,Late,Balanced
+Jameson Walsh,Female,Junior,Yes,Yes,Yes,Yes,1902,Furnished,130387407,Balanced,Early,Very Social
+Lucius Higgins,Other,Freshman,No,Yes,Yes,Yes,1931,UnFurnished,163817880,Balanced,Early,Balanced
+Jael Kelly,Female,Junior,No,No,No,Yes,1699,Furnished,135628667,Balanced,Early,Very Social
+Karina Wells,Male,Sophmore,Yes,Yes,Yes,No,1232,Furnished,197943535,Very Tidy,Late,Balanced
+Brittany Mcbride,Other,Sophmore,Yes,Yes,Yes,No,1103,UnFurnished,172654244,Very Untidy,Late,Balanced
+Jonas Erickson,Female,Junior,Yes,Yes,Yes,No,1175,Furnished,111160427,Balanced,Late,Balanced
+Octavius Lawson,Male,Sophmore,No,No,No,Yes,1365,Furnished,164197831,Very Untidy,Late,Very Social
+Richard Hurley,Female,Sophmore,Yes,No,No,Yes,953,Furnished,181959250,Balanced,Very Late,Balanced
+Maris Perkins,Other,Senior,No,Yes,No,No,1761,Furnished,127575658,Balanced,Late,Interoverted
+Lisandra Richmond,Female,Junior,No,Yes,No,Yes,1836,UnFurnished,181333655,Very Untidy,Late,Balanced
+Richard Roth,Female,Sophmore,Yes,Yes,Yes,Yes,866,Furnished,189430591,Balanced,Late,Balanced
+Roary Gates,Male,Junior,Yes,Yes,No,Yes,1588,UnFurnished,109367173,Very Untidy,Late,Interoverted
+Lavinia Paul,Other,Senior,Yes,No,No,No,1103,Furnished,114921464,Very Tidy,Late,Balanced
+Kevin Berry,Male,Junior,Yes,Yes,Yes,No,1957,Furnished,167337836,Balanced,Early,Balanced
+Stacey Adkins,Other,Sophmore,Yes,No,Yes,No,1962,UnFurnished,178012347,Very Tidy,Late,Balanced
+Elizabeth Langley,Other,Senior,No,No,Yes,Yes,1789,UnFurnished,140307670,Balanced,Early,Balanced
+Jesse Newman,Female,Sophmore,No,Yes,No,No,1660,Furnished,175960165,Very Untidy,Late,Balanced
+Thor Thornton,Female,Freshman,Yes,No,No,No,1456,UnFurnished,171680852,Very Tidy,Early,Interoverted
+Addison Levine,Female,Sophmore,No,No,No,Yes,1647,UnFurnished,106676011,Very Untidy,Late,Interoverted
+Sybill Clark,Female,Junior,No,No,Yes,Yes,1545,UnFurnished,166522822,Balanced,Late,Balanced
+Griffin Mercer,Female,Sophmore,Yes,Yes,Yes,Yes,1250,UnFurnished,108961117,Balanced,Early,Very Social
+Adrian Schroeder,Other,Sophmore,No,Yes,No,Yes,1035,Furnished,198014194,Balanced,Late,Balanced
+Astra Sykes,Other,Junior,Yes,Yes,Yes,No,1251,UnFurnished,117775839,Very Untidy,Late,Interoverted
+Xenos Powers,Female,Senior,No,Yes,Yes,Yes,1948,Furnished,137838732,Balanced,Early,Interoverted
+Neil Ashley,Male,Sophmore,Yes,Yes,No,Yes,1552,Furnished,109465099,Balanced,Late,Interoverted
+Mark Hubbard,Male,Sophmore,No,Yes,No,No,1466,UnFurnished,104901931,Very Untidy,Late,Very Social
+Shannon Casey,Male,Sophmore,Yes,No,No,Yes,1358,Furnished,138995766,Balanced,Late,Interoverted
+Meghan Cummings,Female,Sophmore,No,Yes,No,No,955,Furnished,162017443,Very Tidy,Late,Balanced
+Nasim Tucker,Female,Sophmore,No,No,Yes,No,1603,UnFurnished,155589811,Very Tidy,Very Late,Interoverted
+Duncan Beard,Other,Sophmore,Yes,Yes,No,Yes,1206,UnFurnished,130389029,Balanced,Very Late,Interoverted
+Alisa Hensley,Male,Sophmore,Yes,No,Yes,Yes,1758,UnFurnished,105822087,Balanced,Late,Interoverted
+Jameson Walker,Female,Senior,No,No,Yes,Yes,1444,Furnished,133433380,Very Untidy,Late,Interoverted
+Preston Whitney,Female,Freshman,No,No,No,Yes,1746,Furnished,141720860,Balanced,Early,Balanced
+Dennis Cantu,Female,Sophmore,Yes,Yes,No,No,1196,UnFurnished,135587351,Balanced,Late,Balanced
+Vera Anthony,Male,Junior,Yes,Yes,No,Yes,1367,Furnished,111834365,Very Untidy,Late,Balanced
+Giacomo Tillman,Male,Junior,No,No,No,Yes,1100,UnFurnished,182699216,Balanced,Late,Interoverted
+Micah Steele,Female,Junior,No,No,No,No,1688,UnFurnished,147349786,Balanced,Late,Balanced
+Germaine Gaines,Other,Sophmore,No,Yes,Yes,No,1946,Furnished,107252101,Balanced,Very Late,Balanced
+Owen Oneil,Male,Sophmore,No,Yes,Yes,No,1068,Furnished,164392599,Very Tidy,Late,Balanced
+Halee Chandler,Female,Junior,Yes,Yes,Yes,Yes,1657,Furnished,110390822,Very Tidy,Late,Interoverted
+Kay Flynn,Female,Freshman,Yes,No,Yes,No,1728,UnFurnished,128478113,Very Tidy,Late,Balanced
+Basil Ramsey,Female,Sophmore,No,Yes,No,Yes,1987,UnFurnished,151951029,Very Tidy,Early,Balanced
+Damon Gaines,Female,Junior,No,Yes,No,No,1335,UnFurnished,175606951,Very Tidy,Late,Very Social
+Shelby Le,Female,Sophmore,No,No,No,No,1815,Furnished,166407042,Balanced,Late,Balanced
+Isadora Weber,Other,Junior,No,Yes,No,No,1531,UnFurnished,122242575,Very Tidy,Late,Interoverted
+Cruz Merrill,Female,Sophmore,No,Yes,Yes,No,1266,UnFurnished,169183887,Balanced,Late,Balanced
+Aimee Barton,Male,Sophmore,No,No,No,No,1345,UnFurnished,161586210,Very Untidy,Early,Balanced
+Kane Roth,Female,Sophmore,Yes,No,Yes,No,1408,UnFurnished,121178433,Very Tidy,Early,Balanced
+Constance Hardy,Other,Freshman,Yes,Yes,Yes,Yes,1972,Furnished,121822171,Balanced,Very Late,Very Social
+Theodore Garza,Male,Sophmore,No,Yes,No,No,1494,UnFurnished,143701781,Balanced,Very Late,Balanced
+Wang Carr,Other,Sophmore,No,No,Yes,Yes,1474,Furnished,184681868,Very Untidy,Late,Interoverted

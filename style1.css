@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('Proxima_Nova_Font.otf') format('truetype');
+  }
+
+
+body, html{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Proxima Nova", sans-serif;
+    line-height: 1.8em;
+    color: rgb(249, 247, 247);
+    min-width: 1080px;
+}
+
+.pimg1, .pimg2 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    /*fixed = parallax 
+    scroll = normal*/
+    background-attachment: fixed; 
+}
+
+.pimg1{
+    background:url(images/img1.jpg);
+    background-size: cover;
+    min-height: 100%;
+}
+
+.pimg2{
+    background-image: url(images/img2.jpg);
+    min-height: 100%;
+}
+
+.section{
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.ptext{
+    position: absolute;
+    top: 5%;
+    width: 100%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: bold;
+}
+  
+
+@media only screen and (max-width: 1400px){
+    .front-buttons{
+        width: 30%
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    .front-buttons{
+        width: 40%
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .front-buttons{
+        width: 100%
+    }
+}
+

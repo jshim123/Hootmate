@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rent Affordability Calculator</title>
+    <link rel="stylesheet" href="styleCalculator.css">
+</head>
+<body>
+	<a class="logo" href="index.html">
+		<img src="images/owl.png" class="logo"
+		width="160"
+		height="150">
+	  </a>
+
+	  <nav class="circle">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="About.html">About</a></li>
+			<li><a href="Community.php">Community</a></li>
+			<li><a href="Calculator.html">Rent Calculator</a></li>
+		</ul>
+	  </nav>
+
+    <div id="calculator">
+        <h1>Rent Affordability Calculator</h1>
+        <label for="income">Monthly Income:</label>
+        <input type="number" id="income" min="0">
+        
+        <label for="debts">Monthly Debt Payments:</label>
+        <input type="number" id="debts" min="0">
+        
+        <label for="rentPercentage">Desired Percentage of Income for Rent:</label>
+        <input type="range" id="rentPercentage" min="0" max="100" step="1" value="30">
+        <span id="percentageValue">30%</span>
+
+        <button id="calculate">Calculate</button>
+        
+        <div id="results" hidden>
+            <h2>Affordable Rent Range:</h2>
+            <p id="rentRange"></p>
+        </div>
+    </div>
+    <script src="CalculatorJS.js"></script>
+</body>
+</html>

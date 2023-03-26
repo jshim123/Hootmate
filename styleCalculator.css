@@ -1,0 +1,138 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: url(images/img2.jpg);
+    background-size: cover;
+    min-height: 100%;
+}
+.logo{
+    position: absolute;
+    top: -4%;
+    left: 2%;
+    z-index: 1000;
+}
+nav{
+    width: 50%;
+    position: absolute;
+    top: -1%;
+    right: 18%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 1px;
+
+}
+nav ul li a{
+    display: block;
+    padding: 3px 10px;
+    text-decoration: none;
+    color: #fffffff7;
+    font-weight: 650;
+    margin: 0 1px;
+}
+nav ul li a:hover {
+    color: #ffffff;
+}
+nav.circle ul li a {
+    position: relative;
+    overflow: hidden;
+    z-index: 10;
+}
+nav.circle ul li a:after {
+    display: block;
+    position: absolute;
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    content: '.';
+    color: transparent;
+    width: 1px;
+    height: 1px;
+    border-radius: 50%;
+    background: transparent;
+}
+nav.circle ul li a:hover:after {
+    -webkit-animation: circle .5s ease-in forwards;
+}
+@-webkit-keyframes circle {
+    0% {
+      width: 1px;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      margin: auto;
+      height: 1px;
+      z-index: -1;
+      background: rgba(1, 1, 0, 0.292);
+      border-radius: 100%;
+    }
+    100% {
+      background: rgba(13, 13, 13, 0.915);
+      height: 5000%;
+      width: 5000%;
+      z-index: -1;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+      border-radius: 0;
+    }
+  }
+
+#calculator {
+    background-color: #f0f0f0;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgb(0, 0, 0);
+    width: 100%;
+    max-width: 500px;
+}
+
+label {
+    display: block;
+    margin-top: 1rem;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="range"] {
+    width: 100%;
+}
+
+button {
+    background-color: #007BFF;
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin-top: 1rem;
+}
+
+button:hover {
+    background-color: #004cee;
+}
+
+#results {
+    margin-top: 1rem;
+}
